@@ -12,6 +12,7 @@ elif num == 1 & num==0:
    
 else:
    print("Fibonacci sequence:")
+   n1=1
    while count < num:
        print(n1)
        nth = n1 + n2
